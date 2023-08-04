@@ -1,0 +1,5 @@
+evdev
+pyautogui
+python-imageseach-drov0
+termcolor
+pyydotool
